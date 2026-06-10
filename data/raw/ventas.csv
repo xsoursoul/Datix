@@ -1,0 +1,21 @@
+id_venta,fecha,id_producto,cliente,rut_cliente,cantidad,precio_unitario,medio_pago,sucursal
+5001,2025-06-01,1001,Ana Pérez,12345678-5,2,9990,Debito,Santiago Centro
+5002,01/06/2025,1002,Ana Perez,12345678-5,2,9990,Débito,Santiago Centro
+5003,2025-06-02,1003,Carlos Soto,98765432-K,1,29990,Credito,Providencia
+5004,02-06-2025,1004,Carlos Soto,98765432-k,1,29990,Crédito,Providencia
+5005,2025-06-03,1005,María López,11111111-1,1,49990,Efectivo,Maipu
+5006,2025-06-03,1006,Maria Lopez,11111111-1,1,49990,Efectivo,Maipú
+5007,2025/06/04,9999,Juan Torres,22222222-2,3,9990,Transferencia,Las Condes
+5008,2025-06-05,1009,Pedro Díaz,33333333-3,-1,44990,Debito,La Florida
+5009,2025-06-05,1011,Pedro Diaz,33333333-3,1,24990,Debito,La Florida
+5010,2025-06-06,1013,Sofía Rojas,44444444-4,2,27990,Tarjeta,Ñuñoa
+5011,2025-06-06,1014,Sofia Rojas,44444444-4,2,27990,Tarjeta,Nunoa
+5012,2025-06-07,1015,Luis Vega,55555555-5,1,19990,Credito,Recoleta
+5013,2025-06-07,1016,Luis Vega,55555555-5,1,19990,Credito,Recoleta
+5014,2025-06-08,1017,,66666666-6,2,14990,Efectivo,Independencia
+5015,2025-06-08,1018,Paula Díaz,,1,12990,Débito,Independencia
+5016,2025-06-09,1019,Felipe Cruz,77777777-7,0,59990,Transferencia,Vitacura
+5017,2025-06-09,1020,Felipe Cruz,77777777-7,1,59990,Transferencia,Vitacura
+5018,2025-06-10,1001,Ana Pérez,12345678-5,100,9990,Debito,Santiago Centro
+5019,2025-06-10,1001,Ana Pérez,12345678-5,1,,Debito,Santiago Centro
+5020,2025-06-10,abcd,Cliente Test,99999999-9,1,9990,Bitcoin,Sucursal X

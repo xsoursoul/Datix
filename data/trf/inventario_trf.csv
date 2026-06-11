@@ -1,0 +1,21 @@
+id_producto,nombre_producto,categoria,marca,color,talla,precio,stock,fecha_ingreso
+1001,Polera Basica,Hombre,Urbanwear,Negro,M,9990,25,2025-01-15
+1002,Polera Basica,Hombre,Urbanwear,Negro,M,9990,25,2025-01-15
+1003,Jeans Slim,Hombre,Denimpro,Azul,42,29990,10,2025-02-01
+1004,Jeans Slim,Hombre,Denimpro,Azul,42,29990,10,2025-02-01
+1005,Chaqueta Invierno,Mujer,Fashionco,Beige,S,49990,5,2025-03-10
+1006,Chaqueta Invierno,Mujer,Fashionco,Beige,S,49990,,2025-03-10
+1007,Vestido Floral,Mujer,Styleart,Rosado,M,35990,8,2025-04-05
+1008,Vestido Floral,Mujer,Styleart,Rosado,M,35990,8,2025-04-05
+1009,Zapatillas Urbanas,Calzado,Streetrun,Blanco,38,44990,12,2025-05-12
+1010,Zapatillas Urbanas,Calzado,Streetrun,Blanco,38,44990,-2,2025-05-12
+1011,Poleron Oversize,Unisex,Urbanwear,Gris,L,24990,18,2025-06-01
+1012,Poleron Oversize,Unisex,Urbanwear,Gris,L,24990,18,2025-06-01
+1013,Falda Plisada,Mujer,Elegance,Negro,S,27990,7,2025-04-20
+1014,Falda Plisada,Mujer,Elegance,Negro,S,27990,70,1900-01-01
+1015,Camisa Formal,Hombre,Classicfit,Blanco,M,19990,15,2025-03-01
+1016,Camisa Formal,Hombre,Classicfit,Blanco,M,19990,15,2025-03-01
+1017,Short Deportivo,Hombre,Sportflex,Azul,L,14990,20,1900-01-01
+1018,Top Deportivo,Mujer,Sportflex,Negro,S,12990,abc,2025-02-18
+1019,Blazer Ejecutivo,Mujer,Elegance,Negro,M,59990,4,2025-05-01
+1020,Blazer Ejecutivo,Mujer,Elegance,Negro,M,59990,4,2025-05-01
